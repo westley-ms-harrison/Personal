@@ -1,0 +1,25 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westley-ms-harrison/Personal.git"
+  },
+  "keywords": [
+    "new"
+  ],
+  "author": "westley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/westley-ms-harrison/Personal/issues"
+  },
+  "homepage": "https://github.com/westley-ms-harrison/Personal#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
